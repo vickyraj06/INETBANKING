@@ -22,7 +22,7 @@ public class Tc_LoginTest_001 extends BaseClass {
 		
 		LoginPage.ClickLogin.click();
 		
-		System.out.println(driver.getTitle());
+		
 
 		if (driver.getTitle().equals("Guru99 Bank Manager HomePage")) {
 
