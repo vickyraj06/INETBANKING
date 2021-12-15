@@ -2,7 +2,7 @@ package com.inetbanking.TestCases;
 
 import java.io.IOException;
 
-import org.openqa.selenium.support.PageFactory;
+
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -11,6 +11,9 @@ import com.inetbanking.PageObjects.LoginPage;
 import com.inetbanking.Utilities.XLUtils;
 
 public class Tc_LoginDDT_002 extends BaseClass {
+
+
+	public LoginPage lp;
 
 	@DataProvider(name = "logindata")
 	public String[][] GetExcelData() throws IOException {
@@ -23,7 +26,7 @@ public class Tc_LoginDDT_002 extends BaseClass {
 
 		String logindata[][] = new String[rowcount][colcount];
 
-		for (int i = 1; i < rowcount; i++) {
+		for (int i = 1; i <=rowcount; i++) {
 			for (int j = 0; j < colcount; j++) {
 
 				logindata[i - 1][j] = XLUtils.getCellData(path, "sheet1", i, j);
@@ -33,36 +36,39 @@ public class Tc_LoginDDT_002 extends BaseClass {
 		return logindata;
 
 	}
-	
-	  public static boolean isAlertpresent() 
-	  { 
-		  try  { 
-			  driver.switchTo().alert(); 
-			  return true; 
-	  } 
-		  catch(Exception e)
-	  {
-			  return false;
-	  } 
-	  }
-	 
+
+	public static boolean isAlertpresent() 
+	{ 
+		try  { 
+			driver.switchTo().alert(); 
+			return true; 
+		} 
+		catch(Exception e)
+		{
+			return false;
+		} 
+	}
+
 
 	@Test(dataProvider = "logindata")
 	public static void LoginDDTTest(String username, String password) {
 
 		logger.info(" LOGIN VERIFICATION STARTED ");
-		PageFactory.initElements(driver, LoginPage.class);
-		LoginPage.SetUsername.sendKeys(username);
+		//PageFactory.initElements(driver, LoginPage.class);
+
+		LoginPage lp = new LoginPage(driver);
+
+		lp.SetUsername(username);
 		logger.info(" USERNAME ENTERED ");
 
-		LoginPage.SetPassword.sendKeys(password);
+		lp.SetPassword(password);
 		logger.info(" PASSWORD ENTERED ");
 
-		LoginPage.ClickLogin.click();
+		lp.ClickLogin();
 		logger.info(" LOGIN CLICKED ");
 
-		
-		
+
+
 		if (isAlertpresent() == true) {
 
 			driver.switchTo().alert().accept();
@@ -73,7 +79,7 @@ public class Tc_LoginDDT_002 extends BaseClass {
 
 		else {
 			Assert.assertTrue(true);
-			LoginPage.clickLogout.click();
+			lp.ClickLogout();
 			driver.switchTo().alert().accept();
 			driver.switchTo().defaultContent();
 			logger.warn(" LOGIN PASSED ");

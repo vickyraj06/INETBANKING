@@ -24,23 +24,23 @@
   <body>
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
-      <button class="button" id="button">Switch Retro Theme</button> <!-- button -->
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
         <span>All suites</span>
-        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
-          <img class="collapse-all-icon" src="collapseall.gif">
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
           </img> <!-- collapse-all-icon -->
         </a> <!-- collapse-all-link -->
       </div> <!-- navigator-suite-header -->
       <div class="suite">
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
-            <a href="#" class="navigator-link" panel-name="suite-NETBANKING">
-              <span class="suite-name border-passed">NETBANKING</span>
+            <a href="#" panel-name="suite-NETBANKING" class="navigator-link">
+              <span class="suite-name border-failed">NETBANKING</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -50,37 +50,37 @@
             <div class="suite-section-content">
               <ul>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="test-xml-NETBANKING">
+                  <a href="#" panel-name="test-xml-NETBANKING" class="navigator-link ">
                     <span>C:\eclipse-workspace\INetBanking\TestNG.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="testlist-NETBANKING">
+                  <a href="#" panel-name="testlist-NETBANKING" class="navigator-link ">
                     <span class="test-stats">1 test</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="group-NETBANKING">
+                  <a href="#" panel-name="group-NETBANKING" class="navigator-link ">
                     <span>0 groups</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="times-NETBANKING">
+                  <a href="#" panel-name="times-NETBANKING" class="navigator-link ">
                     <span>Times</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="reporter-NETBANKING">
+                  <a href="#" panel-name="reporter-NETBANKING" class="navigator-link ">
                     <span>Reporter output</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="ignored-methods-NETBANKING">
+                  <a href="#" panel-name="ignored-methods-NETBANKING" class="navigator-link ">
                     <span>Ignored methods</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
-                  <a href="#" class="navigator-link " panel-name="chronological-NETBANKING">
+                  <a href="#" panel-name="chronological-NETBANKING" class="navigator-link ">
                     <span>Chronological view</span>
                   </a> <!-- navigator-link  -->
                 </li>
@@ -93,26 +93,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods,   2 passed</span>
+                    <span class="method-stats">1 method, 1 failed,   </span>
                   </li>
                   <li>
-                    <span class="method-list-title passed">Passed methods</span>
-                    <span class="show-or-hide-methods passed">
-                      <a href="#" panel-name="suite-NETBANKING" class="hide-methods passed suite-NETBANKING"> (hide)</a> <!-- hide-methods passed suite-NETBANKING -->
-                      <a href="#" panel-name="suite-NETBANKING" class="show-methods passed suite-NETBANKING"> (show)</a> <!-- show-methods passed suite-NETBANKING -->
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-NETBANKING" class="hide-methods failed suite-NETBANKING"> (hide)</a> <!-- hide-methods failed suite-NETBANKING -->
+                      <a href="#" panel-name="suite-NETBANKING" class="show-methods failed suite-NETBANKING"> (show)</a> <!-- show-methods failed suite-NETBANKING -->
                     </span>
-                    <div class="method-list-content passed suite-NETBANKING">
+                    <div class="method-list-content failed suite-NETBANKING">
                       <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-NETBANKING" title="com.inetbanking.TestCases.Tc_NewCustomerTesr_003" hash-for-method="AddNewCustomerTest">AddNewCustomerTest</a> <!-- method navigator-link -->
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-NETBANKING" title="com.inetbanking.TestCases.Tc_LoginTest_001" class="method navigator-link" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-NETBANKING" title="com.inetbanking.TestCases.Tc_LoginTest_001" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content passed suite-NETBANKING -->
+                    </div> <!-- method-list-content failed suite-NETBANKING -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -124,24 +119,9 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-NETBANKING" class="panel NETBANKING">
-          <div class="suite-NETBANKING-class-passed">
+          <div class="suite-NETBANKING-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.inetbanking.TestCases.Tc_NewCustomerTesr_003</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="AddNewCustomerTest">
-                  </a> <!-- AddNewCustomerTest -->
-                  <span class="method-name">AddNewCustomerTest</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-NETBANKING-class-passed -->
-          <div class="suite-NETBANKING-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
+              <img src="failed.png"/>
               <span class="class-name">com.inetbanking.TestCases.Tc_LoginTest_001</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -150,10 +130,28 @@
                   <a name="LoginTest">
                   </a> <!-- LoginTest -->
                   <span class="method-name">LoginTest</span>
+                  <div class="stack-trace">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=96.0.4664.93): User or Password is not valid
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-4S95062&apos;, ip: &apos;192.168.0.183&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.93, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56740}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c4d158fe4b12aa0c393a7c117635f272
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:281)
+	at com.inetbanking.TestCases.Tc_LoginTest_001.LoginTest(Tc_LoginTest_001.java:30)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 27 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-NETBANKING-class-passed -->
+          </div> <!-- suite-NETBANKING-class-failed -->
         </div> <!-- panel NETBANKING -->
         <div panel-name="test-xml-NETBANKING" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -163,7 +161,7 @@
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
-&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;NETBANKING&quot;&gt;
+&lt;suite name=&quot;NETBANKING&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;com.inetbanking.Utilities.Reporting&quot;/&gt;
   &lt;/listeners&gt;
@@ -171,7 +169,6 @@
     &lt;parameter name=&quot;Browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.inetbanking.TestCases.Tc_LoginTest_001&quot;/&gt;
-      &lt;class name=&quot;com.inetbanking.TestCases.Tc_NewCustomerTesr_003&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- TESTCASES-NetBanking --&gt;
 &lt;/suite&gt; &lt;!-- NETBANKING --&gt;
@@ -185,7 +182,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">TESTCASES-NetBanking (2 classes)</span>
+                <span class="test-name">TESTCASES-NetBanking (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -211,20 +208,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(2);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'AddNewCustomerTest')
-data.setCell(0, 2, 'com.inetbanking.TestCases.Tc_NewCustomerTesr_003')
-data.setCell(0, 3, 5306);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'LoginTest')
-data.setCell(1, 2, 'com.inetbanking.TestCases.Tc_LoginTest_001')
-data.setCell(1, 3, 1815);
+data.setCell(0, 1, 'LoginTest')
+data.setCell(0, 2, 'com.inetbanking.TestCases.Tc_LoginTest_001')
+data.setCell(0, 3, 764);
 window.suiteTableData['NETBANKING']= { tableData: data, tableDiv: 'times-div-NETBANKING'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 7 seconds</span>
+              <span class="suite-total-time">Total running time: 764 ms</span>
               <div id="times-div-NETBANKING">
               </div> <!-- times-div-NETBANKING -->
             </div> <!-- times-div -->
@@ -256,27 +249,14 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">LoginTest</span>
-                <span class="method-start">5285 ms</span>
+                <span class="method-start">4860 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">TearDown</span>
-                <span class="method-start">7191 ms</span>
-              </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">com.inetbanking.TestCases.Tc_NewCustomerTesr_003</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">Setup(chrome)</span>
-                <span class="method-start">8039 ms</span>
-              </div> <!-- configuration-class before -->
-              <div class="test-method">
-                <span class="method-name">AddNewCustomerTest</span>
-                <span class="method-start">11901 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">TearDown</span>
-                <span class="method-start">17209 ms</span>
+                <span class="method-start">6080 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

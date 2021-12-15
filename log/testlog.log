@@ -628,3 +628,328 @@
 2021-10-02 18:39:21,106 - com.inetbanking.TestCases.BaseClass -INFO -  ADDED DETAILS SUCCESSFULLY 
 2021-10-02 18:39:21,107 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TEST FINISHED 
 2021-10-02 18:39:21,280 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:05:22,638 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:05:24,603 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:05:27,033 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:05:27,036 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:05:27,280 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-10-03 11:05:27,382 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-10-03 11:05:28,920 - com.inetbanking.TestCases.BaseClass -INFO -  LOGINED SUCCESFULLY 
+2021-10-03 11:05:28,925 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING FINISHED 
+2021-10-03 11:05:29,273 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:05:29,280 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:05:30,227 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:05:34,129 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 
+2021-10-03 11:05:34,817 - com.inetbanking.TestCases.BaseClass -INFO -  CLICKED NEWCUSTOMER SIDEMENU 
+2021-10-03 11:05:34,947 - com.inetbanking.TestCases.BaseClass -INFO -  CUSTOMERNAME ENTERED 
+2021-10-03 11:05:35,030 - com.inetbanking.TestCases.BaseClass -INFO -  GENDER SELECTED 
+2021-10-03 11:05:35,167 - com.inetbanking.TestCases.BaseClass -INFO -  DOB ENTERED 
+2021-10-03 11:05:35,286 - com.inetbanking.TestCases.BaseClass -INFO -  ADDRESS ENTERED 
+2021-10-03 11:05:35,396 - com.inetbanking.TestCases.BaseClass -INFO -  CITY ENTERED 
+2021-10-03 11:05:35,500 - com.inetbanking.TestCases.BaseClass -INFO -  STATE ENTERED 
+2021-10-03 11:05:35,590 - com.inetbanking.TestCases.BaseClass -INFO -  PIN ENTERED 
+2021-10-03 11:05:35,681 - com.inetbanking.TestCases.BaseClass -INFO -  MOBILENO ENTERED 
+2021-10-03 11:05:35,808 - com.inetbanking.TestCases.BaseClass -INFO -  EMAIL ENTERED 
+2021-10-03 11:05:35,896 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:05:37,181 - com.inetbanking.TestCases.BaseClass -INFO -  SUBMIT BUTTON CLICKED 
+2021-10-03 11:05:37,205 - com.inetbanking.TestCases.BaseClass -INFO -  ADDED DETAILS SUCCESSFULLY 
+2021-10-03 11:05:37,205 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TEST FINISHED 
+2021-10-03 11:05:37,441 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:06:26,489 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:06:28,588 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:06:32,769 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:06:33,051 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:06:33,222 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:06:34,698 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:06:37,018 - com.inetbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-03 11:06:37,041 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:06:37,137 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:06:37,223 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:06:37,691 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:06:39,471 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:06:39,558 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:06:39,651 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:06:40,044 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:06:41,528 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:06:42,177 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:09:47,587 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:09:49,594 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:09:52,117 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:09:52,118 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:09:52,360 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-10-03 11:09:52,493 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-10-03 11:09:54,125 - com.inetbanking.TestCases.BaseClass -INFO -  LOGINED SUCCESFULLY 
+2021-10-03 11:09:54,127 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING FINISHED 
+2021-10-03 11:09:54,435 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:09:54,441 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:09:55,428 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:09:59,365 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:09:59,502 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:09:59,629 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:10:01,328 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:10:03,698 - com.inetbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-03 11:10:03,726 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:10:03,887 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:10:03,963 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:10:04,553 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:10:07,318 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:10:07,430 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:10:07,510 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:10:08,109 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:10:09,665 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:10:10,203 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:10:10,208 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:10:11,253 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:10:15,119 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 
+2021-10-03 11:10:15,807 - com.inetbanking.TestCases.BaseClass -INFO -  CLICKED NEWCUSTOMER SIDEMENU 
+2021-10-03 11:10:15,930 - com.inetbanking.TestCases.BaseClass -INFO -  CUSTOMERNAME ENTERED 
+2021-10-03 11:10:16,005 - com.inetbanking.TestCases.BaseClass -INFO -  GENDER SELECTED 
+2021-10-03 11:10:16,109 - com.inetbanking.TestCases.BaseClass -INFO -  DOB ENTERED 
+2021-10-03 11:10:16,193 - com.inetbanking.TestCases.BaseClass -INFO -  ADDRESS ENTERED 
+2021-10-03 11:10:16,298 - com.inetbanking.TestCases.BaseClass -INFO -  CITY ENTERED 
+2021-10-03 11:10:16,392 - com.inetbanking.TestCases.BaseClass -INFO -  STATE ENTERED 
+2021-10-03 11:10:16,487 - com.inetbanking.TestCases.BaseClass -INFO -  PIN ENTERED 
+2021-10-03 11:10:16,579 - com.inetbanking.TestCases.BaseClass -INFO -  MOBILENO ENTERED 
+2021-10-03 11:10:16,705 - com.inetbanking.TestCases.BaseClass -INFO -  EMAIL ENTERED 
+2021-10-03 11:10:16,790 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:10:17,943 - com.inetbanking.TestCases.BaseClass -INFO -  SUBMIT BUTTON CLICKED 
+2021-10-03 11:10:17,999 - com.inetbanking.TestCases.BaseClass -INFO -  ADDED DETAILS SUCCESSFULLY 
+2021-10-03 11:10:18,000 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TEST FINISHED 
+2021-10-03 11:10:18,272 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:12:42,720 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:12:44,751 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:12:47,163 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:12:47,163 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:12:47,364 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-10-03 11:12:47,477 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-10-03 11:12:48,796 - com.inetbanking.TestCases.BaseClass -INFO -  LOGINED SUCCESFULLY 
+2021-10-03 11:12:48,797 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING FINISHED 
+2021-10-03 11:12:49,116 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:12:49,123 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:12:50,005 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:12:53,845 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:12:53,980 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:12:54,112 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:12:55,673 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:12:58,592 - com.inetbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-03 11:12:58,626 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:12:58,745 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:12:58,823 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:12:59,346 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:13:01,256 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:13:01,369 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:13:01,471 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:13:02,006 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:13:03,551 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:13:04,168 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:13:04,174 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:13:05,009 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:13:08,906 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 
+2021-10-03 11:13:09,585 - com.inetbanking.TestCases.BaseClass -INFO -  CLICKED NEWCUSTOMER SIDEMENU 
+2021-10-03 11:13:09,711 - com.inetbanking.TestCases.BaseClass -INFO -  CUSTOMERNAME ENTERED 
+2021-10-03 11:13:09,791 - com.inetbanking.TestCases.BaseClass -INFO -  GENDER SELECTED 
+2021-10-03 11:13:09,895 - com.inetbanking.TestCases.BaseClass -INFO -  DOB ENTERED 
+2021-10-03 11:13:09,993 - com.inetbanking.TestCases.BaseClass -INFO -  ADDRESS ENTERED 
+2021-10-03 11:13:10,074 - com.inetbanking.TestCases.BaseClass -INFO -  CITY ENTERED 
+2021-10-03 11:13:10,170 - com.inetbanking.TestCases.BaseClass -INFO -  STATE ENTERED 
+2021-10-03 11:13:10,268 - com.inetbanking.TestCases.BaseClass -INFO -  PIN ENTERED 
+2021-10-03 11:13:10,372 - com.inetbanking.TestCases.BaseClass -INFO -  MOBILENO ENTERED 
+2021-10-03 11:13:10,484 - com.inetbanking.TestCases.BaseClass -INFO -  EMAIL ENTERED 
+2021-10-03 11:13:10,568 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:13:11,839 - com.inetbanking.TestCases.BaseClass -INFO -  SUBMIT BUTTON CLICKED 
+2021-10-03 11:13:11,888 - com.inetbanking.TestCases.BaseClass -INFO -  ADDED DETAILS SUCCESSFULLY 
+2021-10-03 11:13:11,889 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TEST FINISHED 
+2021-10-03 11:13:12,153 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:30:35,387 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:30:37,146 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:30:39,665 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:30:39,667 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:30:39,959 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-10-03 11:30:40,078 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-10-03 11:30:41,566 - com.inetbanking.TestCases.BaseClass -INFO -  LOGINED SUCCESFULLY 
+2021-10-03 11:30:41,569 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING FINISHED 
+2021-10-03 11:30:41,877 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:30:41,882 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:30:42,796 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:30:46,521 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:30:46,616 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:30:46,716 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:30:48,249 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:30:50,834 - com.inetbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-03 11:30:50,846 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:30:51,104 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:30:51,179 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:30:51,684 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:30:53,894 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:30:53,993 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:30:54,085 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:30:54,575 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:30:56,375 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:30:56,914 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:30:56,919 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:30:57,921 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:31:01,590 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 
+2021-10-03 11:31:02,184 - com.inetbanking.TestCases.BaseClass -INFO -  CLICKED NEWCUSTOMER SIDEMENU 
+2021-10-03 11:31:02,299 - com.inetbanking.TestCases.BaseClass -INFO -  CUSTOMERNAME ENTERED 
+2021-10-03 11:31:02,378 - com.inetbanking.TestCases.BaseClass -INFO -  GENDER SELECTED 
+2021-10-03 11:31:02,477 - com.inetbanking.TestCases.BaseClass -INFO -  DOB ENTERED 
+2021-10-03 11:31:02,578 - com.inetbanking.TestCases.BaseClass -INFO -  ADDRESS ENTERED 
+2021-10-03 11:31:02,668 - com.inetbanking.TestCases.BaseClass -INFO -  CITY ENTERED 
+2021-10-03 11:31:02,769 - com.inetbanking.TestCases.BaseClass -INFO -  STATE ENTERED 
+2021-10-03 11:31:02,859 - com.inetbanking.TestCases.BaseClass -INFO -  PIN ENTERED 
+2021-10-03 11:31:02,957 - com.inetbanking.TestCases.BaseClass -INFO -  MOBILENO ENTERED 
+2021-10-03 11:31:03,077 - com.inetbanking.TestCases.BaseClass -INFO -  EMAIL ENTERED 
+2021-10-03 11:31:03,188 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:31:03,717 - com.inetbanking.TestCases.BaseClass -INFO -  SUBMIT BUTTON CLICKED 
+2021-10-03 11:31:04,385 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:31:48,757 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:31:50,585 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:31:53,121 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-03 11:31:53,122 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:31:53,406 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-10-03 11:31:53,527 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-10-03 11:31:54,818 - com.inetbanking.TestCases.BaseClass -INFO -  LOGINED SUCCESFULLY 
+2021-10-03 11:31:54,819 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING FINISHED 
+2021-10-03 11:31:55,082 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:31:55,089 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:31:56,054 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:31:59,287 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:31:59,398 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:31:59,505 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:32:00,698 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:32:02,507 - com.inetbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-03 11:32:02,511 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:32:02,583 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:32:02,657 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:32:03,025 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:32:04,448 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:32:04,548 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-03 11:32:04,681 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:32:05,069 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-03 11:32:06,540 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-03 11:32:06,920 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-03 11:32:06,929 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-03 11:32:07,717 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-03 11:32:11,511 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 
+2021-10-03 11:32:12,142 - com.inetbanking.TestCases.BaseClass -INFO -  CLICKED NEWCUSTOMER SIDEMENU 
+2021-10-03 11:32:12,229 - com.inetbanking.TestCases.BaseClass -INFO -  CUSTOMERNAME ENTERED 
+2021-10-03 11:32:12,289 - com.inetbanking.TestCases.BaseClass -INFO -  GENDER SELECTED 
+2021-10-03 11:32:12,374 - com.inetbanking.TestCases.BaseClass -INFO -  DOB ENTERED 
+2021-10-03 11:32:12,455 - com.inetbanking.TestCases.BaseClass -INFO -  ADDRESS ENTERED 
+2021-10-03 11:32:12,530 - com.inetbanking.TestCases.BaseClass -INFO -  CITY ENTERED 
+2021-10-03 11:32:12,608 - com.inetbanking.TestCases.BaseClass -INFO -  STATE ENTERED 
+2021-10-03 11:32:12,686 - com.inetbanking.TestCases.BaseClass -INFO -  PIN ENTERED 
+2021-10-03 11:32:12,755 - com.inetbanking.TestCases.BaseClass -INFO -  MOBILENO ENTERED 
+2021-10-03 11:32:12,856 - com.inetbanking.TestCases.BaseClass -INFO -  EMAIL ENTERED 
+2021-10-03 11:32:12,919 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-03 11:32:13,329 - com.inetbanking.TestCases.BaseClass -INFO -  SUBMIT BUTTON CLICKED 
+2021-10-03 11:32:13,673 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-12 09:23:22,272 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-12 09:23:24,714 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-12 09:23:28,179 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-10-12 09:23:28,180 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-12 09:23:28,414 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-10-12 09:23:28,552 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-10-12 09:23:29,793 - com.inetbanking.TestCases.BaseClass -INFO -  LOGINED SUCCESFULLY 
+2021-10-12 09:23:29,795 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING FINISHED 
+2021-10-12 09:23:30,195 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-12 09:23:30,204 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-12 09:23:31,184 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-12 09:23:35,088 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 
+2021-10-12 09:23:35,692 - com.inetbanking.TestCases.BaseClass -INFO -  CLICKED NEWCUSTOMER SIDEMENU 
+2021-10-12 09:23:35,806 - com.inetbanking.TestCases.BaseClass -INFO -  CUSTOMERNAME ENTERED 
+2021-10-12 09:23:35,879 - com.inetbanking.TestCases.BaseClass -INFO -  GENDER SELECTED 
+2021-10-12 09:23:35,967 - com.inetbanking.TestCases.BaseClass -INFO -  DOB ENTERED 
+2021-10-12 09:23:36,071 - com.inetbanking.TestCases.BaseClass -INFO -  ADDRESS ENTERED 
+2021-10-12 09:23:36,153 - com.inetbanking.TestCases.BaseClass -INFO -  CITY ENTERED 
+2021-10-12 09:23:36,243 - com.inetbanking.TestCases.BaseClass -INFO -  STATE ENTERED 
+2021-10-12 09:23:36,339 - com.inetbanking.TestCases.BaseClass -INFO -  PIN ENTERED 
+2021-10-12 09:23:36,428 - com.inetbanking.TestCases.BaseClass -INFO -  MOBILENO ENTERED 
+2021-10-12 09:23:36,556 - com.inetbanking.TestCases.BaseClass -INFO -  EMAIL ENTERED 
+2021-10-12 09:23:36,640 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-12 09:23:37,985 - com.inetbanking.TestCases.BaseClass -INFO -  SUBMIT BUTTON CLICKED 
+2021-10-12 09:23:38,012 - com.inetbanking.TestCases.BaseClass -INFO -  ADDED DETAILS SUCCESSFULLY 
+2021-10-12 09:23:38,012 - com.inetbanking.TestCases.BaseClass -INFO -  TC_NEWCUSTOMERTEST_003 TEST FINISHED 
+2021-10-12 09:23:38,361 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-21 19:18:27,038 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-21 19:21:30,260 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-21 19:21:32,912 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-21 19:21:36,214 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-21 19:21:36,371 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-21 19:21:36,485 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-21 19:21:38,088 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-21 19:21:39,903 - com.inetbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-21 19:21:39,934 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-21 19:21:40,002 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-21 19:21:40,072 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-21 19:21:40,495 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-21 19:21:42,459 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-21 19:21:42,534 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-21 19:21:42,599 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-21 19:21:43,034 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-21 19:21:44,759 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-21 19:21:45,209 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-10-29 18:03:28,186 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-10-29 18:03:31,298 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-10-29 18:03:36,350 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-29 18:03:36,609 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-29 18:03:36,740 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-29 18:03:37,870 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-29 18:03:39,757 - com.inetbanking.TestCases.BaseClass -WARN -  LOGIN PASSED 
+2021-10-29 18:03:39,782 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-29 18:03:39,867 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-29 18:03:39,950 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-29 18:03:40,392 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-29 18:03:42,072 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-29 18:03:42,199 - com.inetbanking.TestCases.BaseClass -INFO -  USERNAME ENTERED 
+2021-10-29 18:03:42,285 - com.inetbanking.TestCases.BaseClass -INFO -  PASSWORD ENTERED 
+2021-10-29 18:03:42,768 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN CLICKED 
+2021-10-29 18:03:44,092 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-10-29 18:03:44,812 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-11-13 11:08:28,836 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-11-13 11:08:32,098 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-11-13 11:08:35,048 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-11-13 11:08:35,049 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-11-13 11:08:35,341 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-11-13 11:08:35,442 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-11-13 11:08:37,174 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-11-30 14:24:16,712 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-11-30 14:24:19,280 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-11-30 14:24:22,552 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-11-30 14:24:22,553 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-11-30 14:24:23,712 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-11-30 14:25:05,615 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-11-30 14:25:08,136 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-11-30 14:25:11,129 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-11-30 14:25:11,130 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-11-30 14:25:11,367 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-11-30 14:25:11,500 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-11-30 14:25:13,089 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-12-10 09:58:48,141 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-12-10 09:58:50,388 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-12-10 09:58:53,222 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-12-10 09:58:53,223 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-12-10 09:58:53,457 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-12-10 09:58:53,603 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-12-10 09:58:55,677 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-12-10 10:13:40,327 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-12-10 10:13:42,683 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-12-10 10:13:45,393 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-12-10 10:13:45,395 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-12-10 10:13:45,611 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-12-10 10:13:45,778 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-12-10 10:13:47,482 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-12-10 10:18:17,963 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-12-10 10:18:20,076 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-12-10 10:18:22,968 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-12-10 10:18:22,969 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-12-10 10:18:23,170 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-12-10 10:18:23,291 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-12-10 10:18:25,423 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 
+2021-12-10 12:18:43,225 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER  LAUNCHING 
+2021-12-10 12:18:45,421 - com.inetbanking.TestCases.BaseClass -INFO -  CHROME BROWSER LAUNCHED 
+2021-12-10 12:18:47,999 - com.inetbanking.TestCases.BaseClass -INFO -  TC_LOGINTEST_001 TESTING STARTED 
+2021-12-10 12:18:48,000 - com.inetbanking.TestCases.BaseClass -INFO -  LOGIN VERIFICATION STARTED 
+2021-12-10 12:18:48,140 - com.inetbanking.TestCases.BaseClass -INFO - USERNAME ENTERED
+2021-12-10 12:18:48,237 - com.inetbanking.TestCases.BaseClass -INFO - PASSWORD ENTERED
+2021-12-10 12:18:49,472 - com.inetbanking.TestCases.BaseClass -INFO -  BROWSER CLOSED 

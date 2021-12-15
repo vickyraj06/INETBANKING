@@ -16,8 +16,7 @@ import java.util.Date;
 
 import javax.imageio.ImageIO;
 
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
+
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
@@ -88,14 +87,14 @@ public class Reporting extends TestListenerAdapter
 
 		String scrfdatefile = currentdate.toString().replace(" ", "-").replace(":", "-");
 
-		File desfile = new File(System.getProperty("user.dir")+"\\Screenshots\\"+scrfdatefile+".png");
+		File desfile = new File(System.getProperty("user.dir")+"/Screenshots/"+scrfdatefile+".png");
 		try {
 			ImageIO.write(srcfile,"png", desfile);
 		} catch (IOException e1) {
 			
 			e1.printStackTrace();
 		}
-		
+
 		
 		
 		if(desfile.exists())
@@ -108,6 +107,7 @@ public class Reporting extends TestListenerAdapter
 				e.printStackTrace();
 				}
 		}
+		
 		
 	}
 	

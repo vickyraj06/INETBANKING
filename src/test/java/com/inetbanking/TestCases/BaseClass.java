@@ -12,12 +12,8 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
-
-import com.aventstack.extentreports.ExtentReports;
-import com.aventstack.extentreports.ExtentTest;
-import com.aventstack.extentreports.Status;
-import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.inetbanking.Utilities.ReadConfig;
+
 
 
 
@@ -34,7 +30,7 @@ public class BaseClass {
 	public String driverlocation3 = readconfig.GetIepath();
 	public static WebDriver driver;
 	public static Logger logger;
-	
+
 
 	@Parameters("Browser")
 	@BeforeClass
@@ -42,48 +38,50 @@ public class BaseClass {
 
 		logger = Logger.getLogger(BaseClass.class);
 		PropertyConfigurator.configure("log4j.properties");
-		
+
 		logger.info(" BROWSER  LAUNCHING ");
 
 		if (Browser.equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver", driverlocation1);
 			driver = new ChromeDriver();
 			logger.info(" CHROME BROWSER LAUNCHED ");
-		
+
 		}else if (Browser.equals("firefox")) {
 			System.setProperty("webdriver.gecko.driver", driverlocation2);
 			driver = new FirefoxDriver();
 			logger.info(" FIREFOX BROWSER LAUNCHED ");
-			
+
 		}else if (Browser.equals("ie")) {
 			System.setProperty("webdriver.ie.driver", driverlocation3);
 			//WebDriverManager.iedriver().setup();
+
 			driver = new InternetExplorerDriver();
 			logger.info(" INTERNETEXPLORER BROWSER LAUNCHED ");
-		
+
 		}
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get(baseurl);
-		
+		driver.manage().window().maximize();
+
 	}
 
 	@AfterClass
 	public void TearDown() {
 
 		driver.quit();
-		
+
 
 		logger.info(" BROWSER CLOSED ");
-			
-	
+
+
 	}
-public String randomnames() {
-		
+	public String randomnames() {
+
 		String random=RandomStringUtils.randomAlphabetic(8);
 		return random;
-		
+
 	}
-	
+
 	public String randomnumber() {
 		String randomnum=RandomStringUtils.randomNumeric(8);
 		return randomnum;

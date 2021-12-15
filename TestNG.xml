@@ -9,11 +9,13 @@
 
 	<test name="TESTCASES-NetBanking">
 		<parameter name="Browser" value="chrome" />
+		
 		<classes>
 			<class name="com.inetbanking.TestCases.Tc_LoginTest_001"></class>
-			<!-- <class name="com.inetbanking.TestCases.Tc_LoginDDT_002"></class>  -->
-			<class name="com.inetbanking.TestCases.Tc_NewCustomerTesr_003"></class>
+			<!-- <class name="com.inetbanking.TestCases.Tc_LoginDDT_002"></class> -->
+			<!-- <class name="com.inetbanking.TestCases.Tc_NewCustomerTest_003"></class> -->
 		</classes>
 	</test>
 
 </suite>
+<!-- <class name="com.inetbanking.TestCases.Tc_LoginDDT_002"></class> -->
